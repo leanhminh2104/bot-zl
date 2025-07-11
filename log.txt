@@ -1,0 +1,2765 @@
+nohup: ignoring input
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 85 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, anhx, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:19:39 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://i.postimg.cc/XN56FLGb/E7-Ct-Wy-XXs-AQTOCX.jpg', thumb='https://i.postimg.cc/XN56FLGb/E7-Ct-Wy-XXs-AQTOCX.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/XN56FLGb\\/E7-Ct-Wy-XXs-AQTOCX.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:19:40 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:21:03 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://i.postimg.cc/B6pLCFn5/E8-4tch-XIAQFLRx.jpg', thumb='https://i.postimg.cc/B6pLCFn5/E8-4tch-XIAQFLRx.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/B6pLCFn5\\/E8-4tch-XIAQFLRx.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:21:04 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:03 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://i.postimg.cc/rFWyVcC5/E6-Upc2l-XMAICL4e.jpg', thumb='https://i.postimg.cc/rFWyVcC5/E6-Upc2l-XMAICL4e.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/rFWyVcC5\\/E6-Upc2l-XMAICL4e.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:03 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:06 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:12 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-mup-14.jpg', thumb='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-mup-14.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/anhdeponline.com\\/wp-content\\/uploads\\/2024\\/11\\/anh-lon-mup-14.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:13 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:16 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://sexvailon.com/wp-content/uploads/2021/11/anh-sex-1121-23023255-020.jpg', thumb='https://sexvailon.com/wp-content/uploads/2021/11/anh-sex-1121-23023255-020.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/sexvailon.com\\/wp-content\\/uploads\\/2021\\/11\\/anh-sex-1121-23023255-020.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:17 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:20 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://i.postimg.cc/76xJ7hXv/E32-Bx-EPVUAE9-W89.jpg', thumb='https://i.postimg.cc/76xJ7hXv/E32-Bx-EPVUAE9-W89.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/76xJ7hXv\\/E32-Bx-EPVUAE9-W89.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:21 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:25 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:34 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://i.postimg.cc/NMjfBzQT/E9ml-GAk-VUAMCun-X.jpg', thumb='https://i.postimg.cc/NMjfBzQT/E9ml-GAk-VUAMCun-X.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/NMjfBzQT\\/E9ml-GAk-VUAMCun-X.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:22:35 - 02/06/2025
+------------------------------[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 86 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, anhx, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice, anhnude
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..anhnude
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:38 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh nude cho bạn nè! 💖', description='', href='https://i.postimg.cc/Hn0SzB7Z/E4-Ss-IVk-AEy-ZQE.jpg', thumb='https://i.postimg.cc/Hn0SzB7Z/E4-Ss-IVk-AEy-ZQE.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/Hn0SzB7Z\\/E4-Ss-IVk-AEy-ZQE.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:39 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..delall
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:45 - 02/06/2025
+------------------------------
+------------------------------
+Message: Chỉ có 30 tin nhắn để xóa.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:45 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802154261, globalDelMsgId=6662258110070, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801791988, globalDelMsgId=6662256186651, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802294576, globalDelMsgId=6662258816231, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802334478, globalDelMsgId=6662259013738, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802288206, globalDelMsgId=6662258785141, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802063480, globalDelMsgId=6662257640165, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802140473, globalDelMsgId=6662258039648, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802305193, globalDelMsgId=6662258869502, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802338425, globalDelMsgId=6662259033723, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801926163, globalDelMsgId=6662256916004, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802145520, globalDelMsgId=6662258065620, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801632514, globalDelMsgId=6662255294726, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802136134, globalDelMsgId=6662258017371, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802125873, globalDelMsgId=6662257964251, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801979533, globalDelMsgId=6662257199664, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802339067, globalDelMsgId=6662259036122, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802330527, globalDelMsgId=6662258994087, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802300079, globalDelMsgId=6662258843815, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802330270, globalDelMsgId=6662258993315, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801931052, globalDelMsgId=6662256941902, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802300322, globalDelMsgId=6662258844332, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802334764, globalDelMsgId=6662259014578, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802123207, globalDelMsgId=6662257950370, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802345601, globalDelMsgId=6662259068987, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801753292, globalDelMsgId=6662255971701, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802131827, globalDelMsgId=6662257995409, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748801966492, globalDelMsgId=6662257131000, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802293533, globalDelMsgId=6662258811413, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:46 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802304939, globalDelMsgId=6662258868121, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:47 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748802334728, globalDelMsgId=6662259014424, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:47 - 02/06/2025
+------------------------------
+------------------------------
+Message: Đã xóa 30 tin nhắn thành công!
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:47 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:56 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-dep-8.jpg', thumb='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-dep-8.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/anhdeponline.com\\/wp-content\\/uploads\\/2024\\/11\\/anh-lon-dep-8.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:25:57 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:26:04 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://anhdeponline.com/wp-content/uploads/2025/05/pad_screenshot_T5P8D3K4M8-86x63.webp', thumb='https://anhdeponline.com/wp-content/uploads/2025/05/pad_screenshot_T5P8D3K4M8-86x63.webp', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/anhdeponline.com\\/wp-content\\/uploads\\/2025\\/05\\/pad_screenshot_T5P8D3K4M8-86x63.webp","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:26:05 - 02/06/2025
+------------------------------[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 86 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice, anhnude, anhkolong
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..anhx
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:31:23 - 02/06/2025
+------------------------------
+------------------------------
+Message: Không tìm thấy lệnh 'anhx'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:31:23 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:31:31 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-hong-8.jpg', thumb='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-hong-8.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/anhdeponline.com\\/wp-content\\/uploads\\/2024\\/11\\/anh-lon-hong-8.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:31:32 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:21 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://webanhsex.org/wp-content/uploads/2023/07/photo_2023-06-21_07-24-56-4.jpg', thumb='https://webanhsex.org/wp-content/uploads/2023/07/photo_2023-06-21_07-24-56-4.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/webanhsex.org\\/wp-content\\/uploads\\/2023\\/07\\/photo_2023-06-21_07-24-56-4.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:22 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:27 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://www.sexvip18.net/wp-content/uploads/2022/10/Sexvip18.com-anh-sex-cosplay-co-y-ta-vu-sieu-to-khong-lo-21.jpg', thumb='https://www.sexvip18.net/wp-content/uploads/2022/10/Sexvip18.com-anh-sex-cosplay-co-y-ta-vu-sieu-to-khong-lo-21.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/www.sexvip18.net\\/wp-content\\/uploads\\/2022\\/10\\/Sexvip18.com-anh-sex-cosplay-co-y-ta-vu-sieu-to-khong-lo-21.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:28 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:29 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-mup-8.jpg', thumb='https://anhdeponline.com/wp-content/uploads/2024/11/anh-lon-mup-8.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/anhdeponline.com\\/wp-content\\/uploads\\/2024\\/11\\/anh-lon-mup-8.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:30 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:31 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://www.sexvip18.net/wp-content/uploads/2022/10/Sexvip18.com-anh-sex-hot-girl-hanhannaomi-nguc-tron-xoe-10.jpg', thumb='https://www.sexvip18.net/wp-content/uploads/2022/10/Sexvip18.com-anh-sex-hot-girl-hanhannaomi-nguc-tron-xoe-10.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/www.sexvip18.net\\/wp-content\\/uploads\\/2022\\/10\\/Sexvip18.com-anh-sex-hot-girl-hanhannaomi-nguc-tron-xoe-10.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:31 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:33 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://sexvailon.com/wp-content/uploads/2022/04/SexVaiLon.com-anh-sex-bim-sieu-mup-rup-hong-hao-26.jpg', thumb='https://sexvailon.com/wp-content/uploads/2022/04/SexVaiLon.com-anh-sex-bim-sieu-mup-rup-hong-hao-26.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/sexvailon.com\\/wp-content\\/uploads\\/2022\\/04\\/SexVaiLon.com-anh-sex-bim-sieu-mup-rup-hong-hao-26.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:34 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 01:32:35 - 02/06/2025
+------------------------------Exception in thread Thread-5 (check_members_loop):
+Traceback (most recent call last):
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/gvpngiat/botzl/main.py", line 323, in check_members_loop
+    handle_group_member(self, None, None, thread_id, ThreadType.GROUP, self.background_path)
+  File "/home/gvpngiat/botzl/main.py", line 259, in handle_group_member
+    joined_members, left_members = check_member_changes(bot, thread_id)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/main.py", line 53, in check_member_changes
+    current_group_info = bot.fetchGroupInfo(thread_id).gridInfoMap.get(thread_id, None)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/zlapi/_client.py", line 643, in fetchGroupInfo
+    raise ZaloAPIException(f"Error #{error_code} when sending requests: {error_message}")
+zlapi._exception.ZaloAPIException: Error #-69 when sending requests: Retry limit
+Exception in thread Thread-5 (check_members_loop):
+Traceback (most recent call last):
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/gvpngiat/botzl/main.py", line 323, in check_members_loop
+    handle_group_member(self, None, None, thread_id, ThreadType.GROUP, self.background_path)
+  File "/home/gvpngiat/botzl/main.py", line 259, in handle_group_member
+    joined_members, left_members = check_member_changes(bot, thread_id)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/main.py", line 53, in check_member_changes
+    current_group_info = bot.fetchGroupInfo(thread_id).gridInfoMap.get(thread_id, None)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/zlapi/_client.py", line 643, in fetchGroupInfo
+    raise ZaloAPIException(f"Error #{error_code} when sending requests: {error_message}")
+zlapi._exception.ZaloAPIException: Error #-69 when sending requests: Retry limit
+Exception in thread Thread-5 (check_members_loop):
+Traceback (most recent call last):
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/gvpngiat/botzl/main.py", line 323, in check_members_loop
+    handle_group_member(self, None, None, thread_id, ThreadType.GROUP, self.background_path)
+  File "/home/gvpngiat/botzl/main.py", line 259, in handle_group_member
+    joined_members, left_members = check_member_changes(bot, thread_id)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/main.py", line 53, in check_member_changes
+    current_group_info = bot.fetchGroupInfo(thread_id).gridInfoMap.get(thread_id, None)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/zlapi/_client.py", line 643, in fetchGroupInfo
+    raise ZaloAPIException(f"Error #{error_code} when sending requests: {error_message}")
+zlapi._exception.ZaloAPIException: Error #-69 when sending requests: Retry limit
+Exception in thread Thread-5 (check_members_loop):
+Traceback (most recent call last):
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/gvpngiat/botzl/main.py", line 323, in check_members_loop
+    handle_group_member(self, None, None, thread_id, ThreadType.GROUP, self.background_path)
+  File "/home/gvpngiat/botzl/main.py", line 259, in handle_group_member
+    joined_members, left_members = check_member_changes(bot, thread_id)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/main.py", line 53, in check_member_changes
+    current_group_info = bot.fetchGroupInfo(thread_id).gridInfoMap.get(thread_id, None)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/zlapi/_client.py", line 643, in fetchGroupInfo
+    raise ZaloAPIException(f"Error #{error_code} when sending requests: {error_message}")
+zlapi._exception.ZaloAPIException: Error #-69 when sending requests: Retry limit
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 86 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice, anhnude, anhkolong
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..stkv3
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:38:55 - 02/06/2025
+------------------------------
+------------------------------
+Message: URL không phải là ảnh hợp lệ.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:38:55 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:39:12 - 02/06/2025
+------------------------------
+------------------------------
+Message: ❌ URL không phải là ảnh hợp lệ.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:39:12 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..uptime
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:40:21 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..admin
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:40:56 - 02/06/2025
+------------------------------
+Deleted message containing 'dm' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: Không tìm thấy lệnh 'admin'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:40:56 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864455981, globalDelMsgId=6664856178300, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:40:56 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keywork
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:12 - 02/06/2025
+------------------------------
+------------------------------
+Message: Không tìm thấy lệnh 'keywork'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:12 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:20 - 02/06/2025
+------------------------------
+Received message: ..keyword
+Message Object: Message(msgId='6664857423915', cliMsgId='1748864480171', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864480292', status=1, content='..keyword', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+------------------------------
+Message: • Vui lòng nhập lệnh đầy đủ:
+`keyword add <từ>`
+`keyword remove <từ>`
+`keyword list`
+`keyword reply`
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:20 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword list
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:35 - 02/06/2025
+------------------------------
+Received message: ..keyword list
+Message Object: Message(msgId='6664858200725', cliMsgId='1748864495403', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864495520', status=1, content='..keyword list', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+Loaded keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'cha', 'mẹ', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+------------------------------
+Message: • Danh sách từ khóa:
+1. spam
+2. lol
+3. lồn
+4. cặc
+5. lỏ
+6. lon
+7. cc
+8. dm
+9. bú
+10. đụ
+11. má
+12. cha
+13. mẹ
+14. óc chó
+15. óc lợn
+16. dog
+17. fuck
+18. shit
+19. bitch
+20. dcm
+21. dmm
+22. ccmnr
+23. vl
+24. vcl
+25. djt
+26. dkm
+27. ngu
+28. đần
+29. não tàn
+30. zalo.me
+31. t.me
+32. ml
+33. bede
+34. pede
+35. gay
+36. sex
+37. xxx
+38. rape
+39. hiếp
+40. cave
+41. bán dâm
+42. jav
+43. porn
+44. r18
+45. 18+
+46. gái gọi
+47. thanh lý dâm
+48. live sex
+49. sủa
+50. chó
+51. ăn cứt
+52. súc vật
+53. phò
+54. làm tình
+55. liếm
+56. boobs
+57. ass
+58. bướm
+59. nứng
+60. cave cao cấp
+61. cave giá rẻ
+62. link 18+
+63. nhóm kín
+64. web sex
+65. webjav
+66. webporn
+67. chịch
+68. rape hentai
+69. suck
+70. blowjob
+71. anal
+72. dâm đãng
+73. tình dục
+74. trai bao
+75. địt
+76. ẻ
+77. hentai
+78. sit
+79. sít
+80. cứt
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:35 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='Bot đã hoạt động được 0 ngày, 0 giờ, 25 phút, 19 giây.', description='', href='https://f66-zpg-r.zdn.vn/2570068897018975358/0457d5228a263e786737.jpg', thumb='https://t-f66-zpg-r.zdn.vn/480/2570068897018975358/0457d5228a263e786737.jpg', childnumber=0, action='', params='{"sendSource":1,"fileSize":247671,"thumbSize":53932,"width":2560,"convertible":"jxl","hd":"https:\\/\\/b-f66-zpg-r.zdn.vn\\/2570068897018975358\\/0457d5228a263e786737.jpg","hdSize":344622,"height":2560}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:41:45 - 02/06/2025
+------------------------------
+------------------------------
+Message: Cha
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:09 - 02/06/2025
+------------------------------
+Deleted message containing 'cha' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864529048, globalDelMsgId=6664859926642, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:09 - 02/06/2025
+------------------------------
+------------------------------
+Message: Mẹ hhhhh
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:16 - 02/06/2025
+------------------------------
+Deleted message containing 'mẹ' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864535973, globalDelMsgId=6664860280477, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:16 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:23 - 02/06/2025
+------------------------------
+Received message: ..keyword
+Message Object: Message(msgId='6664860665308', cliMsgId='1748864543519', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864543589', status=3, content='..keyword', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+------------------------------
+Message: • Vui lòng nhập lệnh đầy đủ:
+`keyword add <từ>`
+`keyword remove <từ>`
+`keyword list`
+`keyword reply`
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:23 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword remove cha
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:41 - 02/06/2025
+------------------------------
+Received message: ..keyword remove cha
+Message Object: Message(msgId='6664861579371', cliMsgId='1748864561322', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864561442', status=1, content='..keyword remove cha', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+Loaded keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'cha', 'mẹ', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+Checking admin status for 3704058103894860815. Admin IDs: ['3704058103894860815', '776103656827420589']
+Saved keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'mẹ', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+------------------------------
+Message: • Đã xóa từ khóa 'cha' thành công.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:41 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword remove mẹ
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:45 - 02/06/2025
+------------------------------
+Received message: ..keyword remove mẹ
+Message Object: Message(msgId='6664861790511', cliMsgId='1748864565503', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864565579', status=1, content='..keyword remove mẹ', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+Loaded keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'mẹ', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+Checking admin status for 3704058103894860815. Admin IDs: ['3704058103894860815', '776103656827420589']
+Saved keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+------------------------------
+Message: • Đã xóa từ khóa 'mẹ' thành công.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:42:45 - 02/06/2025
+------------------------------
+------------------------------
+Message: admin
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:00 - 02/06/2025
+------------------------------
+Deleted message containing 'dm' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864580631, globalDelMsgId=6664862562456, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:00 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword remove admin
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:07 - 02/06/2025
+------------------------------
+Received message: ..keyword remove admin
+Message Object: Message(msgId='6664862890040', cliMsgId='1748864586983', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864587091', status=3, content='..keyword remove admin', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+Loaded keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+Checking admin status for 3704058103894860815. Admin IDs: ['3704058103894860815', '776103656827420589']
+Deleted message containing 'dm' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: • Không tìm thấy từ khóa 'admin'.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:07 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864586983, globalDelMsgId=6664862890040, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:07 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..keyword list
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:21 - 02/06/2025
+------------------------------
+Received message: ..keyword list
+Message Object: Message(msgId='6664863604948', cliMsgId='1748864600931', msgType='webchat', uidFrom='3704058103894860815', idTo='2209415685960370113', dName='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', ts='1748864601029', status=3, content='..keyword list', userId='0', uin='0', topOut='0', topOutTimeOut='0', topOutImprTimeOut='0', footer=None, mentions=None, quote=None, property=None, propertyExt={'color': -1, 'size': -1, 'type': -1, 'subType': 0, 'ext': '{"sSrcType":-1,"sSrcStr":"","msg_warning_type":0,"emoji":{"content":0,"num":0,"uniq":0,"first":"","last":"","most":"","text":1}}'}, footerv2=None, reference=None, cmd=12500, st=3, at=0, specialMsgType=0, ttl=0)
+Loaded keywords: ['spam', 'lol', 'lồn', 'cặc', 'lỏ', 'lon', 'cc', 'dm', 'bú', 'đụ', 'má', 'óc chó', 'óc lợn', 'dog', 'fuck', 'shit', 'bitch', 'dcm', 'dmm', 'ccmnr', 'vl', 'vcl', 'djt', 'dkm', 'ngu', 'đần', 'não tàn', 'zalo.me', 't.me', 'ml', 'bede', 'pede', 'gay', 'sex', 'xxx', 'rape', 'hiếp', 'cave', 'bán dâm', 'jav', 'porn', 'r18', '18+', 'gái gọi', 'thanh lý dâm', 'live sex', 'sủa', 'chó', 'ăn cứt', 'súc vật', 'phò', 'làm tình', 'liếm', 'boobs', 'ass', 'bướm', 'nứng', 'cave cao cấp', 'cave giá rẻ', 'link 18+', 'nhóm kín', 'web sex', 'webjav', 'webporn', 'chịch', 'rape hentai', 'suck', 'blowjob', 'anal', 'dâm đãng', 'tình dục', 'trai bao', 'địt', 'ẻ', 'hentai', 'sit', 'sít', 'cứt']
+------------------------------
+Message: • Danh sách từ khóa:
+1. spam
+2. lol
+3. lồn
+4. cặc
+5. lỏ
+6. lon
+7. cc
+8. dm
+9. bú
+10. đụ
+11. má
+12. óc chó
+13. óc lợn
+14. dog
+15. fuck
+16. shit
+17. bitch
+18. dcm
+19. dmm
+20. ccmnr
+21. vl
+22. vcl
+23. djt
+24. dkm
+25. ngu
+26. đần
+27. não tàn
+28. zalo.me
+29. t.me
+30. ml
+31. bede
+32. pede
+33. gay
+34. sex
+35. xxx
+36. rape
+37. hiếp
+38. cave
+39. bán dâm
+40. jav
+41. porn
+42. r18
+43. 18+
+44. gái gọi
+45. thanh lý dâm
+46. live sex
+47. sủa
+48. chó
+49. ăn cứt
+50. súc vật
+51. phò
+52. làm tình
+53. liếm
+54. boobs
+55. ass
+56. bướm
+57. nứng
+58. cave cao cấp
+59. cave giá rẻ
+60. link 18+
+61. nhóm kín
+62. web sex
+63. webjav
+64. webporn
+65. chịch
+66. rape hentai
+67. suck
+68. blowjob
+69. anal
+70. dâm đãng
+71. tình dục
+72. trai bao
+73. địt
+74. ẻ
+75. hentai
+76. sit
+77. sít
+78. cứt
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:43:21 - 02/06/2025
+------------------------------
+------------------------------
+Message: A
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:00 - 02/06/2025
+------------------------------
+------------------------------
+Message: D
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:02 - 02/06/2025
+------------------------------
+------------------------------
+Message: M
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:05 - 02/06/2025
+------------------------------
+------------------------------
+Message: I
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:07 - 02/06/2025
+------------------------------
+------------------------------
+Message: N
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:08 - 02/06/2025
+------------------------------
+------------------------------
+Message: Admin
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:21 - 02/06/2025
+------------------------------
+Deleted message containing 'dm' from 3704058103894860815 in group 2209415685960370113
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748864661402, globalDelMsgId=6664866689821, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:21 - 02/06/2025
+------------------------------
+------------------------------
+Message: Ad
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:23 - 02/06/2025
+------------------------------
+------------------------------
+Message: Min
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 18:44:26 - 02/06/2025
+------------------------------[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 86 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice, anhnude, anhkolong
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..del
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:07:48 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Không thể xoá tin nhắn vì cú pháp không hợp lệ!\n\n| Command: ..del <reply tin nhắn cần xoá>', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_f38ba8"}, {"start": 2, "len": 91, "st": "c_cdd6f4"}, {"start": 54, "len": 11, "st": "b"}, {"start": 54, "len": 1, "st": "c_585b70"}, {"start": 0, "len": 93, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:07:48 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..del
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:08 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Không thể xoá tin nhắn vì cú pháp không hợp lệ!\n\n| Command: ..del <reply tin nhắn cần xoá>', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_f38ba8"}, {"start": 2, "len": 91, "st": "c_cdd6f4"}, {"start": 54, "len": 11, "st": "b"}, {"start": 54, "len": 1, "st": "c_585b70"}, {"start": 0, "len": 93, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:08 - 02/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ ..del
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:20 - 02/06/2025
+------------------------------
+------------------------------
+Message: M
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:30 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..del
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:39 - 02/06/2025
+------------------------------
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=2209415685960370113, clientDelMsgId=1748866110956, globalDelMsgId=0, destId=2209415685960370113)]
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:39 - 02/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Đã xoá tin nhắn của người dùng được reply.', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_a6e3a1"}, {"start": 2, "len": 42, "st": "c_cdd6f4"}, {"start": 0, "len": 44, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:08:39 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..kb
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 19:09:13 - 02/06/2025
+------------------------------
+------------------------------
+Message: 🔄 Bắt đầu gửi lời mời đến 3 thành viên...
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 19:09:13 - 02/06/2025
+------------------------------
+------------------------------
+Message: ✅ Đã gửi lời mời kết bạn đến các thành viên trong nhóm.
+👥 Tổng: 3
+📬 Thành công: 2
+❌ Thất bại: 0
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 19:09:15 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..temg
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:10:40 - 02/06/2025
+------------------------------
+------------------------------
+Message: Không tìm thấy lệnh 'temg'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:10:40 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..timg
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:10:52 - 02/06/2025
+------------------------------
+------------------------------
+Message: Vui lòng nhập nội dung hợp lệ để chuyển đổi thành ảnh.
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:10:53 - 02/06/2025
+------------------------------
+------------------------------
+Message: ..timg hhhhh
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:11:05 - 02/06/2025
+------------------------------
+------------------------------
+Message: Đã xảy ra lỗi khi gọi API: 403 Client Error: Forbidden for url: https://www.hungdev.id.vn/ai/text2img?apiKey=12345&query=hhhhh
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:11:05 - 02/06/2025
+------------------------------
+[19:14:00] ✅ Gửi tới 2209415685960370113: Bot Sẽ Reset Sau Một Phút Nữa
+------------------------------
+Message: Bot Sẽ Reset Sau Một Phút Nữa
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 19:14:00 - 02/06/2025
+------------------------------
+[19:15:00] ✅ Gửi tới 2209415685960370113: ..rsException in thread Thread-5 (check_members_loop):
+Traceback (most recent call last):
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 1045, in _bootstrap_inner
+    self.run()
+  File "/opt/alt/python311/lib64/python3.11/threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/gvpngiat/botzl/main.py", line 323, in check_members_loop
+    handle_group_member(self, None, None, thread_id, ThreadType.GROUP, self.background_path)
+  File "/home/gvpngiat/botzl/main.py", line 259, in handle_group_member
+    joined_members, left_members = check_member_changes(bot, thread_id)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/main.py", line 53, in check_member_changes
+    current_group_info = bot.fetchGroupInfo(thread_id).gridInfoMap.get(thread_id, None)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gvpngiat/botzl/zlapi/_client.py", line 643, in fetchGroupInfo
+    raise ZaloAPIException(f"Error #{error_code} when sending requests: {error_message}")
+zlapi._exception.ZaloAPIException: Error #-69 when sending requests: Retry limit
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37m[1;33mLogin None...
+[1;36mBot Success ! - Listening...
+[1;35mZaloApi By LAMDev 
+[1;36mCopyright © 2025 LAMDev | Version 1.1.0
+[1;36mAll Rights Reserved By 🇻🇳AminTeam✔🇻🇳
+[1;34m
+██╗░░░░░░█████╗░███╗░░░███╗██████╗░███████╗██╗░░░░░██╗
+██║░░░░░██╔══██╗████╗░████║██╔══██╗██╔════╝╚██╗░░░██╔╝
+██║░░░░░███████║██╔████╔██║██║░░██║█████╗░░░╚██░░██╔╝░
+██║░░░░░██╔══██║██║╚██╔╝██║██║░░██║██╔══╝░░░░╚████╔╝░░
+███████╗██║░░██║██║░╚═╝░██║██████╔╝███████╗░░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚══════╝░░░░╚═╝░░░
+[48;2;166;227;161m [38;2;17;17;27mLOGIN [0m [37m[1;36mLogin of 84848162700 successful.
+Không thể load được module: mute. Lỗi: Lệnh mute không có thông tin
+Đã load thành công 87 lệnh: gay, spamtodo, duyetthoitiet37, anh6mui, gemini, anhmong, uptime, duyetgroup, duyetkeyword, cap2, addsdt, qrtext, delall, anhdu, anhgaisexy, getlink, nhacrm, stk, vdcos, thinh, lamnetv2, lamnetv3, adc, infoig, tagan, add, addkick, anhcosplay, anhmeme, del, duyetmem, imgur, reo, rs, menuall, joker, spamstk, text2img, duyetautosend, duyetquanly, duyetthoitiet, api, cap, cardinfo, chill, chuipoll, cmd, downtik, vdchill, vdgai, nhac, anhtrai, qrbank, in4, info, infofb, dich, kb, infott, kick, lamnet, les, media, menu, renamegr, scanqr, sim, spgr, tagall, text, unmute, in4me, anhwibu, cosplaytele, animecosv2, addid, anhanime, anhgai, dichv1, in4gr, dowtt, help, qrcode, voice, anhnude, anhkolong, admin
+Không thể load được 1 lệnh: mute
+Đã load thành công 4 lệnh auto
+Không thể load 1 lệnh auto: autocheckbank
+Đã load thành công 4 lệnh noprefix
+Prefix hiện tại của bot là '..'
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+[48;2;203;166;247m [38;2;17;17;27mDEBUG [0m [37mListening...
+------------------------------
+Message: ..in4
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:09 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:09 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ Bot ngu
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:23 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 5651181446697390853
+------------------------------
+Message: ..info @Lê Thái Bảo
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:27 - 03/06/2025
+------------------------------
+Fetching user info for ID: 7068859335491537777
+User(unchanged_profiles={}, phonebook_version=0, changed_profiles={'7068859335491537777': {'userId': '7068859335491537777', 'username': 't_m7ege0zezz', 'displayName': 'Lê Thái Bảo', 'zaloName': 'Lê Thái Bảo', 'avatar': 'https://s120-ava-talk.zadn.vn/2/6/a/c/1/120/4995033507c469aa43cea877c867a1c2.jpg', 'bgavatar': '', 'cover': 'https://cover-talk.zadn.vn/default', 'gender': 0, 'dob': 1160067600, 'sdob': '06/10/2006', 'status': '', 'phoneNumber': '', 'isFr': 0, 'isBlocked': 0, 'lastActionTime': 1748856927742, 'lastUpdateTime': 1745828333, 'isActive': 1, 'key': 0, 'type': 0, 'isActivePC': 0, 'isActiveWeb': 0, 'isValid': 1, 'userKey': '7068859335491537777', 'accountStatus': 0, 'oaInfo': None, 'user_mode': 0, 'globalId': 'BTCK5737JIQ5QPDN79IPFVH5AO5LIA00', 'bizPkg': {'label': None, 'pkgId': 0}, 'createdTs': 1671982514, 'oa_status': None}})
+Ảnh đã được lưu tại: 179196427012857901137005599872231395137output.png
+------------------------------
+Message: Message(title='', description='', href='https://f67-zpg-r.zdn.vn/7822011997005904109/0bf9b6cf73cec7909edf.jpg', thumb='https://t-f67-zpg-r.zdn.vn/480/7822011997005904109/0bf9b6cf73cec7909edf.jpg', childnumber=0, action='', params='{"sendSource":1,"fileSize":247671,"thumbSize":53932,"width":1100,"convertible":"jxl","hd":"https:\\/\\/b-f67-zpg-r.zdn.vn\\/7822011997005904109\\/0bf9b6cf73cec7909edf.jpg","hdSize":344622,"height":600}', type='')
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:29 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..in4 @Ng Bảo
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:57 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:12:57 - 03/06/2025
+------------------------------
+------------------------------
+Message: @Lê Đức Huy spam cho lại khóc
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:13:26 - 03/06/2025
+------------------------------
+Deleted message containing 'spam' from 3704058103894860815 in group 5651181446697390853
+------------------------------
+Message: @⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓ a gửi card cho m m có check dc k
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:13:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ nik 2022
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:13:52 - 03/06/2025
+------------------------------
+------------------------------
+Message: Hay phải tạo nhóm
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:13:53 - 03/06/2025
+------------------------------
+------------------------------
+Message: @⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓ bot đẹp trai thông minh quá
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot nào chủ náy
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:07 - 03/06/2025
+------------------------------
+------------------------------
+Message: Nấy
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:10 - 03/06/2025
+------------------------------
+------------------------------
+Message: Cc
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:13 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 5651181446697390853
+------------------------------
+Message: Đẹp trai thông minh như nhau
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:16 - 03/06/2025
+------------------------------
+------------------------------
+Message: 10điểm
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:20 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:21 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh đẹp trai chứ minh gì nữa
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:21 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=43552, catId=11788, type=7, extInfo=None)
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:21 - 03/06/2025
+------------------------------
+❌ Lỗi khi gửi âm thanh: HTTPSConnectionPool(host='botzl2.leanhminh.io.vn', port=443): Max retries exceeded with url: /files/chuc-ngu-ngon.mp3 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'botzl2.leanhminh.io.vn'. (_ssl.c:1006)")))
+------------------------------
+Message: Lỗi khi gửi âm thanh. Vui lòng thử lại sau.
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:21 - 03/06/2025
+------------------------------
+------------------------------
+Message: Huy
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:28 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot mô
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:33 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=34853, catId=11190, type=3, extInfo=None)
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:35 - 03/06/2025
+------------------------------
+------------------------------
+Message: Có cc nga
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:36 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 5651181446697390853
+------------------------------
+Message: Nầy
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:44 - 03/06/2025
+------------------------------
+------------------------------
+Message: Card là chi
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:14:56 - 03/06/2025
+------------------------------
+------------------------------
+Message: Danh thiếp á
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:09 - 03/06/2025
+------------------------------
+Deleted message containing 'hiếp' from 3704058103894860815 in group 5651181446697390853
+------------------------------
+Message: @⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓ dr
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:13 - 03/06/2025
+------------------------------
+------------------------------
+Message: Máy tiếng anh ghi theo chơ k hiểu
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:20 - 03/06/2025
+------------------------------
+Deleted message containing 'má' from 6126464984789966957 in group 5651181446697390853
+------------------------------
+Message: Hẹ hẹ
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=46953, catId=12002, type=3, extInfo=None)
+Author ID: 6126464984789966957
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:23 - 03/06/2025
+------------------------------
+------------------------------
+Message: Thử coi
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:31 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..kick
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:46 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Không thể kick người dùng vì cú pháp không hợp lệ!\n\n| Command: kick <tag/reply/id>', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_f38ba8"}, {"start": 2, "len": 82, "st": "c_cdd6f4"}, {"start": 54, "len": 11, "st": "b"}, {"start": 54, "len": 1, "st": "c_585b70"}, {"start": 0, "len": 84, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:15:46 - 03/06/2025
+------------------------------
+------------------------------
+Message: M
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..kick @Lê Thái Bảo
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:04 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Bot không thể kick người dùng vì không có quyền! Vui lòng cấp key cho bot để có thể kick thành viên nhóm.', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_fab387"}, {"start": 2, "len": 105, "st": "c_cdd6f4"}, {"start": 0, "len": 107, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:04 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='Hồ Hữu Nghĩa', description='{"qrCodeUrl":"https:\\/\\/qr-talk.zdn.vn\\/3\\/781292335\\/7f1233f38ba562fb3bb4.jpg"}', href='https://zalo.me', thumb='https://s160-ava-talk.zadn.vn/4/0/4/a/13/160/41f6b28964854f2f8f34bc39652270b3.jpg', childnumber=0, action='recommened.user', params='1281230082195547823', type='')
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:08 - 03/06/2025
+------------------------------
+Deleted message containing 'zalo.me' from 6126464984789966957 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=6126464984789966957, uidTo=6298463145909817088, clientDelMsgId=1748884568284, globalDelMsgId=6665781828739, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:08 - 03/06/2025
+------------------------------
+------------------------------
+Message: Chi bay
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:15 - 03/06/2025
+------------------------------
+------------------------------
+Message: Ha
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:16 - 03/06/2025
+------------------------------
+------------------------------
+Message: Răng hấn xóa
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:17 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='', description='', href='https://f63-zpg-r.zdn.vn/jpg/5303262116465514520/249df5be33bf87e1deae.jpg', thumb='https://f63-zpg-r.zdn.vn/jpg/5303262116465514520/249df5be33bf87e1deae.jpg', childnumber=0, action='', params='{"width":1080,"height":2340,"hd":"https:\\/\\/f63-zpg-r.zdn.vn\\/jpg\\/5303262116465514520\\/249df5be33bf87e1deae.jpg","is_group_layout":0,"contentId":"8295","convertible":"jxl","is_original":0}', type='')
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: Anh share danh thiếp
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:27 - 03/06/2025
+------------------------------
+Deleted message containing 'hiếp' from 6126464984789966957 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=6126464984789966957, uidTo=6298463145909817088, clientDelMsgId=1748884587701, globalDelMsgId=6665782067201, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:27 - 03/06/2025
+------------------------------
+------------------------------
+Message: Chống gửi link
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:30 - 03/06/2025
+------------------------------
+------------------------------
+Message: Cạc
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:33 - 03/06/2025
+------------------------------
+------------------------------
+Message: Mần lại đi
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:16:36 - 03/06/2025
+------------------------------
+------------------------------
+Message: Lập nhóm khác nhóm ni bot key vàng
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:21 - 03/06/2025
+------------------------------
+------------------------------
+Message: Zalo.me
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:33 - 03/06/2025
+------------------------------
+Deleted message containing 'zalo.me' from 3704058103894860815 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=6298463145909817088, clientDelMsgId=1748884652322, globalDelMsgId=6665782869161, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:33 - 03/06/2025
+------------------------------
+------------------------------
+Message: Đó
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:37 - 03/06/2025
+------------------------------
+------------------------------
+Message: Cc
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:39 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=6298463145909817088, clientDelMsgId=1748884658955, globalDelMsgId=6665782934729, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:39 - 03/06/2025
+------------------------------
+------------------------------
+Message: Cc
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:41 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=6298463145909817088, clientDelMsgId=1748884661234, globalDelMsgId=6665782966094, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:41 - 03/06/2025
+------------------------------
+------------------------------
+Message: Đm
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:44 - 03/06/2025
+------------------------------
+------------------------------
+Message: Dm
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:48 - 03/06/2025
+------------------------------
+Deleted message containing 'dm' from 3704058103894860815 in group 6298463145909817088
+------------------------------
+Message: [Message(type=3, actionType=1, uidFrom=3704058103894860815, uidTo=6298463145909817088, clientDelMsgId=1748884667933, globalDelMsgId=6665783046245, destId=6298463145909817088)]
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: Kkk
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:52 - 03/06/2025
+------------------------------
+------------------------------
+Message: Lập đi
+Author ID: 6126464984789966957
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:17:54 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:00 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh đẹp trai chứ minh gì nữa
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:00 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=43552, catId=11788, type=7, extInfo=None)
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:00 - 03/06/2025
+------------------------------
+❌ Lỗi khi gửi âm thanh: HTTPSConnectionPool(host='botzl2.leanhminh.io.vn', port=443): Max retries exceeded with url: /files/chuc-ngu-ngon.mp3 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'botzl2.leanhminh.io.vn'. (_ssl.c:1006)")))
+------------------------------
+Message: Lỗi khi gửi âm thanh. Vui lòng thử lại sau.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:00 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='Đặng Ích Phong', description='{"phone":"+84348688543","qrCodeUrl":"https:\\/\\/qr-talk.zdn.vn\\/0\\/517000960\\/279f26b9c7e92eb777f8.jpg"}', href='https://zalo.me', thumb='https://s160-ava-talk.zadn.vn/4/2/5/2/1/160/a7e4f504df5b0fd6cb85a8cb1b055118.jpg', childnumber=0, action='recommened.user', params='423132927578499767', type='')
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:35 - 03/06/2025
+------------------------------
+Deleted message containing 'zalo.me' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: ..Info
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:19:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..info +84348688543
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:09 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:10 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..in4
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..in4 3704058103894860815
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:40 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:40 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..In4
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..info 3704058103894860815
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:59 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:20:59 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..info
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:08 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:08 - 03/06/2025
+------------------------------
+------------------------------
+Message: Đm
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:12 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..info
+Author ID: 3704058103894860815
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:24 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 6298463145909817088
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:24 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot ngu à
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:25 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: >in4
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:42 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot ngu mô
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:46 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Hẹ hẹ
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:53 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..info @Lê Đức Huy
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:54 - 03/06/2025
+------------------------------
+Fetching user info for ID: 6126464984789966957
+User(unchanged_profiles={}, phonebook_version=0, changed_profiles={'6126464984789966957': {'userId': '6126464984789966957', 'username': 't_m7eg9az6ac', 'displayName': 'Lê Đức Huy', 'zaloName': 'Lê Đức Huy', 'avatar': 'https://s120-ava-talk.zadn.vn/1/5/1/f/12/120/15fe5f914945689a9af6d4f2fb4551aa.jpg', 'bgavatar': '', 'cover': 'https://cover-talk.zadn.vn/9/e/c/6/20/15fe5f914945689a9af6d4f2fb4551aa.jpg', 'gender': 0, 'dob': 872010000, 'sdob': '20/08/1997', 'status': 'https://www.facebook.com/huyydzzz', 'phoneNumber': '', 'isFr': 0, 'isBlocked': 0, 'lastActionTime': 1748884913532, 'lastUpdateTime': 1745803581, 'isActive': 1, 'key': 0, 'type': 0, 'isActivePC': 1, 'isActiveWeb': 0, 'isValid': 1, 'userKey': '6126464984789966957', 'accountStatus': 0, 'oaInfo': None, 'user_mode': 0, 'globalId': 'LRMPPAIAG3K70I6K2T9CI2LAK2Q4IJO0', 'bizPkg': {'label': None, 'pkgId': 0}, 'createdTs': 1630236145, 'oa_status': None}})
+Ảnh đã được lưu tại: 124096017880963931055614613384364556046output.png
+------------------------------
+Message: Message(title='', description='', href='https://f59-zpg-r.zdn.vn/8615380280247086174/4eda396ef26f46311f7e.jpg', thumb='https://t-f59-zpg-r.zdn.vn/480/8615380280247086174/4eda396ef26f46311f7e.jpg', childnumber=0, action='', params='{"sendSource":1,"fileSize":247671,"thumbSize":53932,"width":1100,"convertible":"jxl","hd":"https:\\/\\/b-f59-zpg-r.zdn.vn\\/8615380280247086174\\/4eda396ef26f46311f7e.jpg","hdSize":344622,"height":600}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:21:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: Lệnh là 2 chấm
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:22:21 - 03/06/2025
+------------------------------
+------------------------------
+Message: @⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓ ..info
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:22:30 - 03/06/2025
+------------------------------
+------------------------------
+Message: Hu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:22:34 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:22:35 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Ngu nhìn t bấm răng
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:22:53 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: ..info @ᅠᅠᅠᅠᅠᅠᅠ
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:05 - 03/06/2025
+------------------------------
+Fetching user info for ID: 776103656827420589
+User(unchanged_profiles={}, phonebook_version=0, changed_profiles={'776103656827420589': {'userId': '776103656827420589', 'username': 't_m7ddng8a0c', 'displayName': 'ᅠᅠᅠᅠᅠᅠᅠ', 'zaloName': 'ᅠᅠᅠᅠᅠᅠᅠ', 'avatar': 'https://s120-ava-talk.zadn.vn/f/9/3/1/1/120/c572230b110f15ac0ec07f833e79703b.jpg', 'bgavatar': '', 'cover': 'https://cover-talk.zadn.vn/default', 'gender': 0, 'dob': 0, 'sdob': '21/04', 'status': 'Admin DICHVUSALE.IO.VN\nKo thấy trả lời thì inbox vào Group Support \nhttps://zalo.me/g/boiqoq426', 'phoneNumber': '+84848162700', 'isFr': 0, 'isBlocked': 0, 'lastActionTime': 1748884973456, 'lastUpdateTime': 1748746435, 'isActive': 1, 'key': 0, 'type': 0, 'isActivePC': 0, 'isActiveWeb': 1, 'isValid': 1, 'userKey': '776103656827420589', 'accountStatus': 0, 'oaInfo': None, 'user_mode': 0, 'globalId': 'O97QQA2V81IMANFL0A6HOU7RSB5R4H80', 'bizPkg': {'label': None, 'pkgId': 0}, 'createdTs': 1741326777, 'oa_status': None}})
+Ảnh đã được lưu tại: 200141641788252946596029570867157522944output.png
+------------------------------
+Message: Message(title='', description='', href='https://f62-zpg-r.zdn.vn/8745950178712083269/e09d13edd8ec6cb235fd.jpg', thumb='https://t-f62-zpg-r.zdn.vn/480/8745950178712083269/e09d13edd8ec6cb235fd.jpg', childnumber=0, action='', params='{"sendSource":1,"fileSize":247671,"thumbSize":53932,"width":1100,"convertible":"jxl","hd":"https:\\/\\/b-f62-zpg-r.zdn.vn\\/8745950178712083269\\/e09d13edd8ec6cb235fd.jpg","hdSize":344622,"height":600}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:06 - 03/06/2025
+------------------------------
+------------------------------
+Message: Danh thiếp k dc à
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:31 - 03/06/2025
+------------------------------
+Deleted message containing 'hiếp' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Bot ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:34 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Cc
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:37 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Có mấy lệnh nữa
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: Quẻn r
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:23:55 - 03/06/2025
+------------------------------
+Deleted message containing 'ẻ' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: ..menu
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:02 - 03/06/2025
+------------------------------
+------------------------------
+Message: ╭──[ MENU: Tất cả menu ]
+├────[ TRANG 0/5 ]────╮
+│ Menu 1: Ảnh, video
+│ Menu 2: Ảnh, Video, Meme
+│ Menu 3: Tiện ích
+│ Menu 4: Check thông tin
+│ Menu 5: Admin
+╰──────────────╯
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:02 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..menu 4
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:10 - 03/06/2025
+------------------------------
+------------------------------
+Message: ╭──[ MENU: Check thông tin ]
+├────[ TRANG 4/5 ]────╮
+│ 1. cmd
+│ 2. downtik
+│ 3. dowtt
+│ 4. gemini
+│ 5. qrbank
+│ 6. in4
+│ 7. info
+│ 8. cardinfo
+│ 9. kick
+│ 10. les
+│ 11. infofb
+│ 12. infott
+│ in4gr
+╰──────────────╯
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:10 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..cardinfo
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:25 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', description='{"qrCodeUrl":"https:\\/\\/s120-ava-talk.zadn.vn\\/3\\/4\\/6\\/0\\/2\\/120\\/e429f058017f8264a0b1ebb2dc8554b1.jpg"}', href='www.zaloapp.com', thumb='https://s120.avatar.talk.zdn.vn/3/4/6/0/2/120/e429f058017f8264a0b1ebb2dc8554b1.jpg', childnumber=0, action='recommened.user', params='3704058103894860815', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:25 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..cardinfo
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='⸙̈̈̈̎̈̎ᅠlê Anh Minh ᅠೄྀ ꔷ⃟ꔹ͓͓͓͓͓͓͓͓͓͓͓͓͓', description='{"qrCodeUrl":"https:\\/\\/s120-ava-talk.zadn.vn\\/3\\/4\\/6\\/0\\/2\\/120\\/e429f058017f8264a0b1ebb2dc8554b1.jpg"}', href='www.zaloapp.com', thumb='https://s120.avatar.talk.zdn.vn/3/4/6/0/2/120/e429f058017f8264a0b1ebb2dc8554b1.jpg', childnumber=0, action='recommened.user', params='3704058103894860815', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: Cc
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:24:54 - 03/06/2025
+------------------------------
+Deleted message containing 'cc' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Bot ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:00 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Kkk
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=1111, catId=50, type=3, extInfo=None)
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:02 - 03/06/2025
+------------------------------
+------------------------------
+Message: 🖕🏿
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:16 - 03/06/2025
+------------------------------
+------------------------------
+Message: Ngủ
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:23 - 03/06/2025
+------------------------------
+------------------------------
+Message: [ Bot SIEUTHIMMO - LAMDev ] 
+Chúc bạn ngủ ngon nhé 💤💤
+:z:z:z:z:z:z
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:23 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=43552, catId=11788, type=7, extInfo=None)
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:23 - 03/06/2025
+------------------------------
+❌ Lỗi khi gửi âm thanh: HTTPSConnectionPool(host='botzl2.leanhminh.io.vn', port=443): Max retries exceeded with url: /files/chuc-ngu-ngon.mp3 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'botzl2.leanhminh.io.vn'. (_ssl.c:1006)")))
+------------------------------
+Message: Lỗi khi gửi âm thanh. Vui lòng thử lại sau.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:23 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ bị cái đéo gì r
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:37 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:54 - 03/06/2025
+------------------------------
+------------------------------
+Message: Minh đẹp trai chứ minh gì nữa
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:54 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=43552, catId=11788, type=7, extInfo=None)
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:54 - 03/06/2025
+------------------------------
+❌ Lỗi khi gửi âm thanh: HTTPSConnectionPool(host='botzl2.leanhminh.io.vn', port=443): Max retries exceeded with url: /files/chuc-ngu-ngon.mp3 (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'botzl2.leanhminh.io.vn'. (_ssl.c:1006)")))
+------------------------------
+Message: Lỗi khi gửi âm thanh. Vui lòng thử lại sau.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:25:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: Lê anh minh
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:26:05 - 03/06/2025
+------------------------------
+------------------------------
+Message: Danh thiếp ai gửi
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:26:37 - 03/06/2025
+------------------------------
+Deleted message containing 'hiếp' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: ..anhgai
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:26:52 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh gai cho bạn nè! 💖', description='', href='https://i.postimg.cc/bJCKHqh2/270114510-1073528340076094-3089322070210566617-n.jpg', thumb='https://i.postimg.cc/bJCKHqh2/270114510-1073528340076094-3089322070210566617-n.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/i.postimg.cc\\/bJCKHqh2\\/270114510-1073528340076094-3089322070210566617-n.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:26:53 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..danhthiep
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:11 - 03/06/2025
+------------------------------
+------------------------------
+Message: Không tìm thấy lệnh 'danhthiep'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:12 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ Ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:21 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Ngu
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:23 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Message(title='', description='', href='https://f62-zpg-r.zdn.vn/jpg/1052530982522312077/f3f55d619260263e7f71.jpg', thumb='https://f62-zpg-r.zdn.vn/jpg/1052530982522312077/f3f55d619260263e7f71.jpg', childnumber=0, action='', params='{"width":720,"height":1600,"hd":"https:\\/\\/f62-zpg-r.zdn.vn\\/jpg\\/1052530982522312077\\/f3f55d619260263e7f71.jpg","is_group_layout":0,"contentId":"1000129814","convertible":"jxl","is_original":0}', type='')
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:33 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='', description='', href='https://f57-zpg-r.zdn.vn/jpg/3081738843113686376/d5b7b5767a77ce299766.jpg', thumb='https://f57-zpg-r.zdn.vn/jpg/3081738843113686376/d5b7b5767a77ce299766.jpg', childnumber=0, action='', params='{"width":720,"height":1600,"hd":"https:\\/\\/f57-zpg-r.zdn.vn\\/jpg\\/3081738843113686376\\/d5b7b5767a77ce299766.jpg","is_group_layout":0,"contentId":"","convertible":"jxl","is_original":0}', type='')
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:27:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='Hồ Hữu Nghĩa', description='{"phone":"","qrCodeUrl":"https:\\/\\/qr-talk.zdn.vn\\/3\\/781292335\\/7f1233f38ba562fb3bb4.jpg"}', href='https://zalo.me', thumb='https://s160-ava-talk.zadn.vn/4/0/4/a/13/160/41f6b28964854f2f8f34bc39652270b3.jpg', childnumber=0, action='recommened.user', params='1281230082195547823', type='')
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:14 - 03/06/2025
+------------------------------
+Deleted message containing 'zalo.me' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: ..info
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: • Cú pháp không chính xác.
+Ví dụ: >in4, >in4 @mention, hoặc >in4 số điện thoại
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:22 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:26 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: ..In4
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:37 - 03/06/2025
+------------------------------
+------------------------------
+Message: 3704058103894860815
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:38 - 03/06/2025
+------------------------------
+------------------------------
+Message: Mai t thử
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:28:50 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..kb
+Author ID: 3704058103894860815
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:29:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: 🔄 Bắt đầu gửi lời mời đến 14 thành viên...
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:29:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: ✅ Đã gửi lời mời kết bạn đến các thành viên trong nhóm.
+👥 Tổng: 14
+📬 Thành công: 13
+❌ Thất bại: 0
+Author ID: 776103656827420589
+Thread ID: 5651181446697390853
+Thread Type: ThreadType.GROUP
+Timestamp: 00:29:15 - 03/06/2025
+------------------------------
+------------------------------
+Message: Ko
+Author ID: 353329225291027343
+Thread ID: 353329225291027343
+Thread Type: ThreadType.USER
+Timestamp: 00:29:15 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='', description='Lập Thu đã đồng ý kết bạn', href='https://res-zalo.zadn.vn/upload/media/2019/10/11/artboard_5_4_x_2x_1570759790847_74009.png', thumb='https://s160-ava-talk.zadn.vn/4/9/b/8/7/160/272c5ae3dbddc338c7525843fb037fe6.jpg', childnumber=0, action='show.profile', params='{"isMain":0,"notifyTxt":"Lập Thu đã đồng ý kết bạn","header":"","layoutType":1,"previewTxt":"[Thiệp] Gửi lời chào Lập Thu","actions":[{"data":"{\\"catId\\":10751,\\"stickerList\\":[{\\"catId\\":10398,\\"id\\":23037,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10233,\\"id\\":19773,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10285,\\"id\\":21139,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10302,\\"id\\":21458,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10130,\\"id\\":18009,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10751,\\"id\\":27706,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10693,\\"id\\":26804,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10177,\\"id\\":18869,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10882,\\"id\\":29557,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10320,\\"id\\":21767,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10117,\\"id\\":17751,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10340,\\"id\\":22147,\\"type\\":3,\\"autoplay\\":1},{\\"catId\\":10340,\\"id\\":22138,\\"type\\":3,\\"autoplay\\":1}],\\"id\\":27706,\\"type\\":7,\\"autoplay\\":1}","isMain":0,"is_tracking":true,"id_tracking":1748885357566,"name":"Gửi Sticker xin chào","actionId":"action.open.sendsticker","data_popup":null}]}', type='2')
+Author ID: 6171364833643806925
+Thread ID: 6171364833643806925
+Thread Type: ThreadType.USER
+Timestamp: 00:29:17 - 03/06/2025
+------------------------------
+------------------------------
+Message: Thiếu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:30:04 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..qrbank mb,21042006,Lê Văn Anh Minh
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:30:29 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='💳 QR cho ngân hàng MB\n💳 STK: 21042006\n👤 Chủ TK: Lê Văn Anh Minh', description='', href='https://res.cloudinary.com/dkbvtlegz/image/upload/v1748885432/inzm103zudnahnyfblam.png', thumb='https://res.cloudinary.com/dkbvtlegz/image/upload/v1748885432/inzm103zudnahnyfblam.png', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/res.cloudinary.com\\/dkbvtlegz\\/image\\/upload\\/v1748885432\\/inzm103zudnahnyfblam.png","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:30:32 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:30:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stkv3
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:31:24 - 03/06/2025
+------------------------------
+------------------------------
+Message: Không thể upload ảnh webp lên server.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:31:39 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:06 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:14 - 03/06/2025
+------------------------------
+------------------------------
+Message: ❌ Hãy reply vào ảnh cần tạo sticker.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:14 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:31 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='', description='', href='https://f63-zpg-r.zdn.vn/jpg/8540880133655341759/b053b5ea65ebd1b588fa.jpg', thumb='https://f63-zpg-r.zdn.vn/jpg/8540880133655341759/b053b5ea65ebd1b588fa.jpg', childnumber=0, action='', params='{"width":600,"height":776,"hd":"https:\\/\\/f63-zpg-r.zdn.vn\\/jpg\\/8540880133655341759\\/b053b5ea65ebd1b588fa.jpg","is_group_layout":0,"contentId":"","convertible":"jxl","is_original":0}', type='')
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:48 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: ❌ URL không phải là ảnh hợp lệ.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:32:56 - 03/06/2025
+------------------------------
+------------------------------
+Message: Đm
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:01 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stk
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:29 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..stkv3
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:41 - 03/06/2025
+------------------------------
+------------------------------
+Message: URL không phải là ảnh hợp lệ.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:41 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..kick @ᅠᅠᅠᅠᅠᅠᅠ
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:59 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='• Bot không thể kick người dùng vì không có quyền! Vui lòng cấp key cho bot để có thể kick thành viên nhóm.', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 2, "st": "c_fab387"}, {"start": 2, "len": 105, "st": "c_cdd6f4"}, {"start": 0, "len": 107, "st": "f_13"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:33:59 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..text huy ngu vl luôn
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:35:03 - 03/06/2025
+------------------------------
+Error handling message: name 'author_id' is not defined
+------------------------------
+Message: ...
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 00:35:29 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='╭────────────────────────────╮\n│ Bot LAMDev - SIEUTHIMMO\n│ Tổng Số Lệnh: 87\n├────────────────────────────╯\n├────────────────────────────╮\n│1. gay\n│2. spamtodo\n│3. thoitiet37\n│4. anh6mui\n│5. mute\n│6. gemini\n│7. anhmong\n│8. uptime\n│9. group\n│10. keyword\n│11. cap2\n│12. addsdt\n│13. qrtext\n│14. delall\n│15. anhdu\n│16. anhgaisexy\n│17. getlink\n│18. nhacrm\n│19. stk\n│20. vdcos\n│21. thinh\n│22. lamnetv2\n│23. lamnetv3\n│24. adc\n│25. infott\n│26. tagan\n│27. add\n│28. addkick\n│29. anhcos\n│30. meme\n│31. del\n│32. duyetmem\n│33. imgur\n│34. reo\n│35. rs\n│36. .\n│37. joker\n│38. spamstk\n│39. timg\n│40. autosend\n│41. quanly\n│42. thoitiet\n│43. api\n│44. cap\n│45. cardinfo\n│46. chill\n│47. poll\n│48. cmd\n│49. downtik\n│50. vdchill\n│51. vdgai\n│52. nhac\n│53. anhtrai\n│54. qrbank\n│55. in4\n│56. info\n│57. infofb\n│58. dich\n│59. kb\n│60. kick\n│61. lamnet\n│62. les\n│63. media\n│64. menu\n│65. reonamegr\n│66. scanqr\n│67. sim\n│68. spgr\n│69. spgrstop\n│70. tagall\n│71. text\n│72. unmute\n│73. anhwibu\n│74. cosplaytele\n│75. vdcosv2\n│76. addid\n│77. anhanime\n│78. anhgai\n│79. stkv3\n│80. in4gr\n│81. dowtt\n│82. help\n│83. qrcode\n│84. voice\n│85. anhnude\n│86. anhlkl\n│87. admin\n╰────────────────────────────╯', description='', href='', thumb='', childnumber=0, action='rtf', params='{"styles": [{"start": 0, "len": 1158, "st": "f_12"}, {"start": 0, "len": 1158, "st": "b"}], "ver": 0}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 00:35:29 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..infott leanhminh2104
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:35:57 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title="• Tên: 𝙇𝙚 𝘼𝙣𝙝 𝙈𝙞𝙣𝙝 ☑︎\n• Id tiktok: 6975429263109817346\n• Username tiktok: leanhminh2104\n• Tiểu sử: Hi Bro!\nI'm Le Anh Minh,\nA tech student at Vinh University\nAnd is webmaster\n• Số follower: 14629\n• Đang follower: 1093\n• Số video đã đăng: 5\n• Tổng số tim tiktok: 17324\n• Các liên kết mạng xã hội\n• Instagram: \n• Youtube: \n• Twitter:", description='', href='https://f64-zpg-r.zdn.vn/3730507489705737615/07b4ea703a718e2fd760.jpg', thumb='https://t-f64-zpg-r.zdn.vn/480/3730507489705737615/07b4ea703a718e2fd760.jpg', childnumber=0, action='', params='{"sendSource":1,"fileSize":247671,"thumbSize":53932,"width":2500,"convertible":"jxl","hd":"https:\\/\\/b-f64-zpg-r.zdn.vn\\/3730507489705737615\\/07b4ea703a718e2fd760.jpg","hdSize":344622,"height":2500}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:35:58 - 03/06/2025
+------------------------------
+------------------------------
+Message: Bot ngu
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:28 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: ..botnguvl
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:33 - 03/06/2025
+------------------------------
+Deleted message containing 'vl' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Không tìm thấy lệnh 'botnguvl'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:33 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..text
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:46 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..test
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: Không tìm thấy lệnh 'test'. Hãy dùng ..menu để biết các lệnh có trên hệ thống.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:36:55 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:37:05 - 03/06/2025
+------------------------------
+------------------------------
+Message: Vui lòng nhập nội dung.
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:37:05 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice huy ngu ng u ngu, ngu v l luôn
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:37:39 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Message(title='', description='', href='https://n.uguu.se/fPDaYyMV.acc', thumb='', childnumber=0, action='', params='{"fileSize":29376,"m4a":"https:\\/\\/n.uguu.se\\/fPDaYyMV.acc"}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:37:42 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(globalMsgId=6665796184906, cliMsgId=1748885859639, deleteMsg=0, srcId=3704058103894860815, destId=9004675735916002207)
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:37:49 - 03/06/2025
+------------------------------
+------------------------------
+Message: @ᅠᅠᅠᅠᅠᅠᅠ @Lê Đức Huy hấn ngủ chi m tề
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:38:14 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice huy ngu ng u ngu, ngu v l luôn
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:38:41 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Message(title='', description='', href='https://f.uguu.se/lmTfHlEF.acc', thumb='', childnumber=0, action='', params='{"fileSize":29376,"m4a":"https:\\/\\/f.uguu.se\\/lmTfHlEF.acc"}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:38:43 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(globalMsgId=6665796802561, cliMsgId=1748885921279, deleteMsg=0, srcId=3704058103894860815, destId=9004675735916002207)
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:38:46 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice Minh ngu như con chó
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:39:00 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 6126464984789966957 in group 9004675735916002207
+------------------------------
+Message: Message(title='', description='', href='https://d.uguu.se/wrSFHhhN.acc', thumb='', childnumber=0, action='', params='{"fileSize":16896,"m4a":"https:\\/\\/d.uguu.se\\/wrSFHhhN.acc"}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:39:03 - 03/06/2025
+------------------------------
+------------------------------
+Message: Kkk
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:39:12 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(id=1111, catId=50, type=3, extInfo=None)
+Author ID: 6126464984789966957
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:39:12 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice h uy huy ngu ng u ngu v l l u ô n uôn l uôn luôn , ngu v l luôn
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:40:16 - 03/06/2025
+------------------------------
+Deleted message containing 'ngu' from 3704058103894860815 in group 9004675735916002207
+------------------------------
+Message: Message(title='', description='', href='https://d.uguu.se/MYBcTfhZ.acc', thumb='', childnumber=0, action='', params='{"fileSize":58944,"m4a":"https:\\/\\/d.uguu.se\\/MYBcTfhZ.acc"}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:40:19 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..voice ==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+Author ID: 3704058103894860815
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:41:44 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='', description='', href='https://d.uguu.se/hqzikgBS.acc', thumb='', childnumber=0, action='', params='{"fileSize":1596480,"m4a":"https:\\/\\/d.uguu.se\\/hqzikgBS.acc"}', type='')
+Author ID: 776103656827420589
+Thread ID: 9004675735916002207
+Thread Type: ThreadType.GROUP
+Timestamp: 00:41:52 - 03/06/2025
+------------------------------
+------------------------------
+Message: ..anhlkl
+Author ID: 3704058103894860815
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 00:42:38 - 03/06/2025
+------------------------------
+------------------------------
+Message: Message(title='🖼️ Ảnh x cho bạn nè! 💖', description='', href='https://webanhsex.org/wp-content/uploads/2025/02/photo_2025-01-23_00-14-21-2.jpg', thumb='https://webanhsex.org/wp-content/uploads/2025/02/photo_2025-01-23_00-14-21-2.jpg', childnumber=0, action='', params='{"width":1200,"convertible":"jxl","hd":"https:\\/\\/webanhsex.org\\/wp-content\\/uploads\\/2025\\/02\\/photo_2025-01-23_00-14-21-2.jpg","height":1600}', type='')
+Author ID: 776103656827420589
+Thread ID: 2209415685960370113
+Thread Type: ThreadType.GROUP
+Timestamp: 00:42:39 - 03/06/2025
+------------------------------
